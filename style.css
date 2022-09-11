@@ -4,10 +4,8 @@
 }
 @media (max-width:500px) {
     .box{
-        margin-top: 10%;
         text-align: center;
-        margin-top: 180px;
-        margin-bottom: 150px;
+        margin-bottom: 80px;
     }
     body{
         background-color: #FBDA61;
@@ -21,7 +19,7 @@
     font-size: 20px;
    }
    .myAbout{
-       margin-top: 200px;
+       margin-top: 70px;
        margin-bottom: 0;
        text-align: center;
 
@@ -36,7 +34,7 @@
 .box{
     margin-top: 200px;
     text-align: center;
-    margin-bottom: 300px;
+    margin-bottom: 243px;
 }
 body{
     background-color: #FBDA61;
